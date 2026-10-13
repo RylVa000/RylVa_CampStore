@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\datarylva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\datarylva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\pilihtujuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\pilihtujuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\pilihtujuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\pilihtujuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\user\\downloads\\projek berryl\\c#\\visual studio\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\CrystalReport1.rpt",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-07-20T02:31:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSewa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:12:56.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:12:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDetailProduk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:09:44.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDetailProduk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:20:42.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBeli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:11:38.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswIUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:33:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerifikasiPembayaran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:13:45.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerifikasiPembayaran.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAAP0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:13:50.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataRylVa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:38:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAccountSetting.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAiwPcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:26:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAccountSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:24:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "ViewState": "AgIAALADAAAAAAAAAADwv78DAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:59.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBeli.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:11:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSewa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:13:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PilihTujuan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:29:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PilihTujuan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\PilihTujuan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T07:29:33.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswF0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:30:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:29:52.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:41:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:05:53.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

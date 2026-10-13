@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formaccountsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formsewa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\datarylva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\datarylva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\verifikasipembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formbeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\formdetailproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|c:\\users\\rpl66\\downloads\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547A93B-D742-95F5-B11B-A910CDCFB5AB}|XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA.csproj|solutionrelative:xrplc_07_berrylzelva_ta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAccountSetting.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:24:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSewa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:12:46.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBeli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:57:40.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Properties\\Resources.resx",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-20T02:47:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAccountSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormAccountSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:41:43.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T00:51:56.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSewa.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormSewa.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:37:17.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormRegister.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:25:38.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DashBoard.cs [Design]",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:17:47.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Payment.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:18:50.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBeli.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormBeli.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T03:35:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerifikasiPembayaran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T04:35:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDetailProduk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\User\\Downloads\\Projek Berryl\\C#\\Visual Studio\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:20:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDetailProduk.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\FormDetailProduk.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:21:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerifikasiPembayaran.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\VerifikasiPembayaran.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAACQBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T04:35:27.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataRylVa.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\DataRylVa.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T03:40:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeDocumentMoniker": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ToolTip": "C:\\Users\\rpl66\\Downloads\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "RelativeToolTip": "XRPLC_07_BerrylZelva_TA\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:17:21.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
