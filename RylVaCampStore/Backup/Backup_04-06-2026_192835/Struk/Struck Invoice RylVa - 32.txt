@@ -1,0 +1,16 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 32
+Tanggal     : 30/05/2026
+Pelanggan   : Herman Augustin
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >NH Cloud Up 2 - 1 Hari (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 90,000
+========================================
+     Terima Kasih Telah Berbelanja!     

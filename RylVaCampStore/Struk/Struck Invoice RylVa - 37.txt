@@ -1,0 +1,17 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 37
+Tanggal     : 05/06/2026
+Pelanggan   : zahran
+Mode        : Beli
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Tenda Dome Basic (x2)
+ >Pasak Besi 10pcs (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 1,050,000
+========================================
+     Terima Kasih Telah Berbelanja!     

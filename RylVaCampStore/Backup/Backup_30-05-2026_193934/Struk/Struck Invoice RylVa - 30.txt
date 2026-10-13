@@ -1,0 +1,17 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 30
+Tanggal     : 30/05/2026
+Pelanggan   : Ara Aulia Amerta
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Tenda Dome Basic - 2 Hari (x1)
+ >Consina 30L - 3 Hari (x2)
+----------------------------------------
+TOTAL BAYAR : Rp 140,000
+========================================
+     Terima Kasih Telah Berbelanja!

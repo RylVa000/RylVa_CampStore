@@ -1,0 +1,19 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 2
+ Tanggal     : 12/05/2026
+ Pelanggan   : Herman Augustin
+ Pilihan Mode: Beli
+ Metode      : Kredit
+------------------------------------------
+ Rincian Pembelian :
+   >Daypack Consina 30L  (x1)
+   >Kompor Portable  (x2)
+------------------------------------------
+ TOTAL BAYAR : Rp 690,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

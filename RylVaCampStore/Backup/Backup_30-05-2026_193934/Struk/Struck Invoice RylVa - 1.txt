@@ -1,0 +1,19 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 1
+ Tanggal     : 12/05/2026
+ Pelanggan   : Alpha Beta
+ Pilihan Mode: Beli
+ Metode      : COD
+------------------------------------------
+ Rincian Pembelian :
+   >Carrier Eiger 60L  (x1)
+   >Tenda Summit Pro 4P  (x1)
+------------------------------------------
+ TOTAL BAYAR : Rp 2,350,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

@@ -1,0 +1,16 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 33
+Tanggal     : 03/06/2026
+Pelanggan   : Muhammad Farhan Qaishar
+Mode        : Beli
+Metode      : COD
+----------------------------------------
+Rincian Pembelian :
+ >Senter Police (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 80,000
+========================================
+     Terima Kasih Telah Berbelanja!     

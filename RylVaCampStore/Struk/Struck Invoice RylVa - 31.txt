@@ -1,0 +1,17 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 31
+Tanggal     : 30/05/2026
+Pelanggan   : Costantin Ruuka
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Jaket WP Arei - 3 Hari (x3)
+ >Matras Spon - 3 Hari (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 163,500
+========================================
+     Terima Kasih Telah Berbelanja!     

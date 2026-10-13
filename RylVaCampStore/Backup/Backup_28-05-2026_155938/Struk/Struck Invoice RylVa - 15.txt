@@ -1,0 +1,18 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 15
+ Tanggal     : 23/05/2026
+ Pelanggan   : Herman Augustin
+ Pilihan Mode: Sewa
+ Metode      : Qris
+------------------------------------------
+ Rincian Pembelian :
+   >Nesting Set  (x1)
+------------------------------------------
+ TOTAL BAYAR : Rp 30,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

@@ -1,0 +1,17 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 29
+Tanggal     : 30/05/2026
+Pelanggan   : Ara Aulia Amerta
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Senter Police - 3 Hari (x2)
+ >NH Cloud Up 2 - 3 Hari (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 294,000
+========================================
+     Terima Kasih Telah Berbelanja!

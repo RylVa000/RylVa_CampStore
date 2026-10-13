@@ -1,0 +1,60 @@
+Summit Pro 4P;Tenda;1700000;Summit4T.jpg;55;10;Tenda double layer anti badai anti banjir anti galau untuk cuaca ekstrem.;- Material: Polyester - Kapasitas: 4 Orang;75000;2;6
+Tenda Dome Basic;Tenda;500000;DomeBase.png;20;30;Tenda dome praktis dan ringan yang cocok untuk camping santai di cuaca cerah.;- Material: Parasut ringan - Kapasitas: 2 Orang;25000;2;2
+Eiger Shira 1P;Tenda;1300000;Eiger Shira 1P.jfif;15;10;Tenda single person ultralight cocok untuk pendaki solo yang mengutamakan kecepatan.;- Kapasitas: 1 Orang - Frame: Alloy;65000;0;3
+Consina Magnum;Tenda;1600000;Magnum4.jfif;10;15;Tenda keluarga dengan teras luas untuk memasak atau menyimpan barang.;- Kapasitas: 4 Orang - Teras: Ya;80000;1;1
+Arei Rei 2P;Tenda;800000;Arei Rei 2P.jfif;15;25;Tenda entry-level tangguh dari Arei untuk pendaki pemula.;- Kapasitas: 2 Orang - Material: Taffeta;40000;0;0
+NH Cloud Up 2;Tenda;1800000;NH Cloud Up 2.jfif;8;6;Tenda ultralight premium yang sangat ringan and mudah didirikan.;- Berat: 1.5kg - Material: 20D Nylon;90000;0;3
+Quechua Arpenaz;Tenda;2400000;Quechua Arpenaz.jfif;5;9;Tenda camping mewah bergaya glamping dengan ruang tamu berdiri.;- Kapasitas: 4 Orang - Tinggi: 1.9m;120000;2;0
+GO Java 4;Tenda;1000000;GO Java 4.jpg;12;22;Tenda klasik andalan para pendaki gunung di Indonesia.;- Kapasitas: 4 Orang - Frame: Fiberglass;50000;0;0
+Flysheet 3x3;Tenda;160000;Flysheet 3x3.jfif;30;41;Atap tambahan pelindung tenda dari hujan deras dan panas terik matahari.;- Ukuran: 3x3 m - Bahan: Waterproof Coating;8000;0;0
+Pasak Besi 10pcs;Tenda;50000;Pasak Besi 10pcs.jfif;50;37;Pasak baja kokoh menahan tenda dari terpaan angin kencang.;- Material: Baja Galvanis - Panjang: 20cm;2500;1;0
+Eiger 60L;Tas Kemah;850000;Eiger 60L.jfif;15;12;Tas backpack tangguh yang dirancang khusus untuk perjalanan jauh.;- Material: Nylon - Kapasitas: 60L;42500;5;8
+Consina 30L;Tas Kemah;300000;DaypackCosina30L.jpg;20;25;Tas punggung ergonomis untuk pendakian tektok atau harian.;- Material: Cordura - Kapasitas: 30L;15000;5;5
+Eiger Equator;Tas Kemah;1600000;Eiger Equator.jfif;10;6;Tas carrier premium dengan sistem backsystem paling nyaman.;- Material: Robic Nylon - Kapasitas: 60L;80000;1;0
+Consina Tarebbi;Tas Kemah;800000;Consina Tarebbi.jfif;15;18;Carrier legenda Consina yang terkenal badak dan awet dipakai bertahun-tahun.;- Kapasitas: 60L - Include Raincover;40000;0;1
+Arei Ramelu 60L;Tas Kemah;700000;Arei Ramelu 60L.jfif;12;21;Carrier ekonomis dan fungsional dari Arei Outdoorgear.;- Kapasitas: 60L - Frame: Single Frame;35000;0;0
+Eiger Wanderer;Tas Kemah;440000;Eiger Wanderer.jpg;15;16;Daypack stylish untuk summit attack atau jalan-jalan santai.;- Kapasitas: 28L - Kompartemen Laptop: Ya;22000;0;0
+Drybag WP 10L;Tas Kemah;120000;Drybag WP 10L.jfif;25;33;Tas anti air 100% untuk menyimpan barang elektronik saat basah-basahan.;- Kapasitas: 10L - Material: PVC Tarpaulin;6000;0;0
+Waistbag Arei;Tas Kemah;100000;Waistbag Arei.jfif;30;42;Tas pinggang ringkas untuk menyimpan dompet dan HP saat mendaki.;- Strap: Adjustable - Kantong: 3 Lapis;5000;0;0
+Raincover 60L;Tas Kemah;80000;Raincover 60L.jfif;40;27;Pelindung tas ransel dari hujan deras dan debu di jalur pendakian.;- Ukuran: 50L hingga 60L - Material: Parasut;4000;0;0
+Tali Webbing;Tas Kemah;20000;Tali Webbing.jpg;50;45;Tali pengikat matras atau tenda ekstra di luar tas carrier.;- Panjang: 2 Meter - Material: Nylon Webbing;1000;0;0
+SB Eiger Mummy;Alat Tidur;400000;SB Eiger Mummy.jfif;20;18;Kantung tidur model mummy yang memeluk tubuh agar tetap hangat di cuaca minus.;- Model: Mummy - Suhu: Limit 5°C;20000;0;0
+SB Consina;Alat Tidur;240000;SB Consina.jfif;25;31;Sleeping bag model tikar yang bisa dilebarkan menjadi selimut.;- Model: Tikar (Rectangle) - Suhu: Limit 10°C;12000;0;0
+Matras Foil;Alat Tidur;60000;Matras Foil.jfif;40;26;Alat tidur penahan hawa dingin dari tanah berkat lapisan aluminium.;- Material: Spon & Aluminium Foil - Ukuran: 180x60cm;3000;0;0
+Matras Spon;Alat Tidur;40000;Matras Spon.jpg;50;39;Matras gulung standar yang wajib dibawa oleh setiap pendaki gunung.;- Material: Spon EVA - Ketebalan: 3mm;2000;0;1
+Bantal Angin NH;Alat Tidur;80000;Bantal Angin NH.jfif;30;15;Bantal tiup portabel yang sangat ringan dan nyaman untuk leher.;- Material: TPU - Tipe: Inflatable;4000;0;0
+Hammock Arei;Alat Tidur;140000;Hammock Arei.jfif;20;23;Ayunan gantung santai untuk menikmati sore di pepohonan area camp.;- Kapasitas: 1 Orang (Max 150kg) - Tali: Webbing;7000;0;0
+Velbed Lipat;Alat Tidur;600000;Velbed Lipat.jfif;5;6;Ranjang lipat militer yang membuat tidur di camp terasa seperti di rumah.;- Frame: Aluminium - Kain: Oxford 600D;30000;0;0
+Selimut Darurat;Alat Tidur;32000;Selimut Darurat.jfif;100;37;Selimut penahan hipotermia darurat berlapis perak penghasil panas tubuh.;- Material: Mylar - Ukuran: 210x160cm;1600;0;0
+Nesting Set;Alat Masak;120000;NestingSet.jpg;20;22;Set panci dan wajan susun anti lengket yang sangat ringkas.;- Material: Anodized Aluminum - Isi: 4 Pcs;6000;2;4
+Kompor Portable;Alat Masak;150000;KomporPortebel.jpg;25;30;Kompor gas lipat mini dengan pemantik otomatis dan pelindung angin.;- Material: Stainless Steel - Bahan Bakar: Gas Kaleng;7500;2;1
+Panci Set Bulin;Alat Masak;280000;Panci Set Bulin.jfif;10;12;Nesting set premium berbahan tebal dengan gagang tahan panas.;- Material: Hard Anodized - Isi: Panci, Wajan, Teko;14000;1;0
+Kompor Kovar;Alat Masak;120000;Kompor Kovar.jfif;30;20;Kompor kembang yang siripnya bisa dinaik-turunkan menghalau angin.;- Tipe Bunga (Mekar) - Pemantik: Piezo Ignition;6000;0;0
+Gas Hi-Cook 230g;Alat Masak;24000;Gas Hi-Cook 230g.jfif;100;43;Bahan bakar utama andalan kompor portable di alam bebas.;- Isi Bersih: 230 gram - Tipe Gas: Butane;1200;1;0
+Gelas Lipat;Alat Masak;40000;Gelas Lipat.jfif;40;35;Gelas kopi unik yang bisa ditekan dan dilipat menjadi sangat tipis.;- Material: Food Grade Silicone - Kapasitas: 200ml;2000;0;0
+Sendok Lipat SS;Alat Masak;32000;Sendok Lipat SS.jfif;50;28;Alat makan lipat hemat tempat anti karat untuk petualangan.;- Material: Stainless Steel 304 - Tipe: Lipat;1600;0;0
+Piring Enamel;Alat Masak;20000;Piring Enamel.jfif;60;39;Piring gaya jadul yang tahan banting dan mudah dibersihkan.;- Material: Seng Enamel - Diameter: 20cm;1000;0;0
+Jerigen Lipat 5L;Alat Masak;48000;Jerigen Lipat 5L.jfif;30;22;Wadah penampung air lipat yang menghemat ruang ransel.;- Kapasitas: 5 Liter - Material: Plastik PE Food Grade;2400;0;0
+Headlamp Vision;Penerangan;160000;Headlamp Vision.jfif;20;17;Senter kepala terang dengan daya tahan baterai sangat awet.;- Lumens: 200 lm - Baterai: 3x AAA;8000;0;0
+Headlamp NH LED;Penerangan;240000;Headlamp NH LED.jfif;15;10;Senter kepala ultralight dengan sensor gerak dan baterai isi ulang.;- Tipe Baterai: Rechargeable USB - Sensor: Ya;12000;0;0
+Senter Police;Penerangan;80000;Senter Police.jfif;25;28;Senter taktis multifungsi yang bisa di-zoom untuk pencahayaan jarak jauh.;- Lumens: 300 lm - Fitur: Zoom in/out;4000;2;2
+Lampu Tenda USB;Penerangan;60000;Lampu Tenda USB.jfif;30;25;Lampu bohlam LED gantung yang dihidupkan dengan powerbank.;- Daya: 5 Watt - Konektor: Kabel USB;3000;0;0
+Lampu Petromaks;Penerangan;320000;Lampu Petromaks.jfif;5;8;Lampu klasik untuk penerangan area camp dan menghangatkan suasana.;- Bahan Bakar: Minyak Tanah/Parafin - Material: Besi;16000;0;0
+Pole Dhaulagiri;Aksesoris;120000;Pole Dhaulagiri.jfif;25;19;Tongkat daki pengurang beban lutut yang bisa dipanjangkan.;- Material: Duralumin 6061 - Sistem: Putar;6000;0;0
+Pole NH Carbon;Aksesoris;400000;Pole NH Carbon.jpeg;10;11;Tongkat karbon premium sangat ringan kelas atlet gunung.;- Material: Carbon Fiber - Sistem: Quick Lock;20000;0;0
+Pisau Victorinox;Aksesoris;500000;Pisau Victorinox.jfif;5;6;Pisau survival serbaguna buatan Swiss (Swiss Army Knife).;- Fitur: 12 fungsi (Pisau, Gergaji, Pembuka Kaleng);25000;0;0
+Carabiner 8mm;Aksesoris;24000;Carabiner 8mm.jfif;60;43;Pengait multifungsi dengan sistem kunci putar pengaman.;- Material: Alloy - Beban Max: 25kg (Bukan Panjat Tebing);1200;0;0
+Tali Prusik 10m;Aksesoris;40000;Tali Prusik 10m.jfif;40;36;Tali kecil super kuat untuk mendirikan flysheet dan mengikat barang.;- Diameter: 3mm - Panjang: 10 Meter;2000;0;0
+Palu Karet;Aksesoris;52000;Palu Karet.jfif;15;21;Palu khusus untuk memukul pasak tenda tanpa merusak kepala pasaknya.;- Material Kepala: Karet - Gagang: Kayu/Besi;2600;0;0
+Kompas Bidik;Aksesoris;80000;Kompas Bidik.jpg;20;14;Alat navigasi darat presisi tinggi untuk membaca peta topografi.;- Material: Logam - Fitur: Kaca Pembesar & Bidikan;4000;0;0
+Gelang Paracord;Aksesoris;36000;Gelang Paracord.jfif;30;27;Gelang multifungsi dengan peluit dan pemantik api darurat tersembunyi.;- Material Tali: Paracord 550 - Fitur: Peluit, Pemantik;1800;0;0
+Jaket WP Arei;Pakaian;350000;Jaket WP Arei.jfif;20;10;Jaket tangguh anti air dan penahan angin untuk suhu dingin pegunungan.;- Material: Taslan Balon - Fitur: Windproof & Waterproof;17500;2;3
+Celana Consina;Pakaian;250000;Celana Consina.jfif;30;22;Celana lapangan yang bisa dilepas pasang menjadi celana pendek.;- Material: Ripstop - Tipe: Quick Dry;12500;0;0
+Sepatu SNTA 471;Pakaian;380000;Sepatu SNTA 471.jfif;15;10;Sepatu gunung kokoh dengan cengkraman kuat untuk medan tanah dan batu.;- Material: PU Leather - Sol: TPR;19000;0;0
+Jas Hujan Eiger;Pakaian;250000;Jas Hujan Eiger.jfif;25;26;Jas hujan serbaguna yang bisa dibentangkan menjadi bivak/tenda darurat.;- Material: PVC - Ukuran: All Size;12500;0;2
+Kaos QD NH;Pakaian;120000;Kaos QD NH.jfif;40;33;Kaos olahraga dan pendakian yang sangat cepat kering saat berkeringat.;- Material: Polyester Breathable - Fitur: Anti UV;6000;0;0
+Topi Rimba;Pakaian;75000;Topi Rimba.jfif;50;40;Topi lapangan pelindung kepala dan leher dari terik matahari.;- Material: Ripstop - Fitur: Tali Leher;3750;0;1
+Gloves Polar;Pakaian;90000;Gloves Polar.jfif;35;19;Sarung tangan hangat berbahan fleece polar untuk cuaca ekstrem.;- Material: Polar Fleece - Fitur: Touchscreen Compatible;4500;0;0
+Buff Bandana;Pakaian;25000;Buff Bandana.jfif;100;44;Kain pelindung leher dan masker debu saat di jalur pendakian.;- Material: Microfiber - Tipe: Seamless;1250;0;1
+Kaos Kaki Gunung;Pakaian;35000;Kaos Kaki Gunung.jfif;60;38;Kaos kaki tebal pelindung tumit dari gesekan sepatu trekking.;- Material: Wool Blend - Fitur: Anti Blister;1750;0;0
+Gaiter Kaki;Pakaian;65000;Gaiter Kaki.jfif;20;26;Pelindung betis dan sepatu agar kerikil, lumpur, dan pacet tidak masuk.;- Material: Taslan Waterproof - Pengait: Velcro;3500;0;0

@@ -1,0 +1,17 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 28
+Tanggal     : 29/05/2026
+Pelanggan   : Costantin Ruuka
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Eiger Shira 1P - 1 Hari (x1)
+ >Summit Pro 4P - 1 Hari (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 140,000
+========================================
+     Terima Kasih Telah Berbelanja!     

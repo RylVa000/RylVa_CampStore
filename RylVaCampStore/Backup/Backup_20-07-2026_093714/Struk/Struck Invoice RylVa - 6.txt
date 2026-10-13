@@ -1,0 +1,18 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 6
+ Tanggal     : 18/05/2026
+ Pelanggan   : Tatan
+ Pilihan Mode: Beli
+ Metode      : Qris
+------------------------------------------
+ Rincian Pembelian :
+   >Daypack Consina 30L  (x1)
+------------------------------------------
+ TOTAL BAYAR : Rp 300,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

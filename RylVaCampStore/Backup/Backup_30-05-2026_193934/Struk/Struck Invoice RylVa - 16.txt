@@ -1,0 +1,18 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 16
+ Tanggal     : 24/05/2026
+ Pelanggan   : Alpha Beta
+ Pilihan Mode: Beli
+ Metode      : Qris
+------------------------------------------
+ Rincian Pembelian :
+   >Tenda Dome Basic  (x2)
+------------------------------------------
+ TOTAL BAYAR : Rp 1,000,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

@@ -1,0 +1,16 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 36
+Tanggal     : 04/06/2026
+Pelanggan   : Hey Tayo
+Mode        : Beli
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Senter Police (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 80,000
+========================================
+     Terima Kasih Telah Berbelanja!     

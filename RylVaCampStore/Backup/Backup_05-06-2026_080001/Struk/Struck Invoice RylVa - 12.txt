@@ -1,0 +1,20 @@
+==========================================
+             RYLVA CAMP STORE             
+       ~ Adventure & Camping Gear ~       
+==========================================
+ No. Invoice : RylVa - 12
+ Tanggal     : 22/05/2026
+ Pelanggan   : Herman Augustin
+ Pilihan Mode: Beli
+ Metode      : Qris
+------------------------------------------
+ Rincian Pembelian :
+   >Tenda Dome Basic  (x1)
+   >Daypack Consina 30L  (x1)
+   >Nesting Set  (x2)
+------------------------------------------
+ TOTAL BAYAR : Rp 1,040,000
+==========================================
+    Terima Kasih Telah Berbelanja!        
+   Utamakan Keselamatan dan Kejujuran     
+==========================================

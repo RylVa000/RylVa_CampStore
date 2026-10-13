@@ -1,0 +1,18 @@
+RylVa - 1;12/05/2026;Alpha;Alpha Beta;Jl jalan no 0 rt4 rw1, bogor, jawa barat;Carrier Eiger 60L (1 pcs), Tenda Summit Pro 4P (1 pcs), ;2350000;Beli;COD;Complete
+RylVa - 2;12/05/2026;Ryze;Herman Augustin;Jl. Gajah Mada No 38 RT04 RW01, Bandung, Jawa Barat;Daypack Consina 30L (1 pcs), Kompor Portable (2 pcs), ;690000;Beli;Kredit;Cancel
+RylVa - 3;12/05/2026;fajirganteng;fajir mawlana;rumah, bekasi, jabar barat;Nesting Set (1 pcs), Carrier Eiger 60L (1 pcs), ;970000;Beli;Qris;Proses
+RylVa - 4;18/05/2026;Ruuka;Costantin Ruuka;No38D RT04 RW01, Moskow, Oblast;Tenda Summit Pro 4P (1 pcs - 1 Hari), ;375000;Sewa;COD;Dikembalikan
+RylVa - 5;18/05/2026;Ruuka;Costantin Ruuka;No38D RT04 RW01, Moskow, Oblast;Carrier Eiger 60L (2 pcs - 1 Hari), Tenda Summit Pro 4P (1 pcs - 1 Hari), ;2213750;Sewa;Kredit;Dipinjam
+RylVa - 6;18/05/2026;Zelva;Tatan;Jl cihuy, arab, spanyol;Daypack Consina 30L (1 pcs), ;300000;Beli;Qris;Proses
+RylVa - 7;18/05/2026;Ryze;Herman Augustin;Jl. Gajah Mada No 38 RT04 RW01, Bandung, Jawa Barat;Carrier Eiger 60L (2 pcs - 1 Hari), ;425000;Sewa;Qris;Cancel
+RylVa - 8;18/05/2026;Ruuka;Costantin Ruuka;No38D RT04 RW01, Moskow, Oblast;Carrier Eiger 60L (2 pcs - 1 Hari), Tenda Summit Pro 4P (2 pcs - 1 Hari), ;1175000;Sewa;Bank;Proses
+RylVa - 9;19/05/2026;Zeta;Zeta Constantin;Jl ki Hajar Dewantara No56A RT 04 RW13, Bagdhad, Aula;Carrier Eiger 60L (1 pcs), Tenda Summit Pro 4P (1 pcs), ;2350000;Beli;Qris;Proses
+RylVa - 10;19/05/2026;Ryze;Herman Augustin;Jl. Gajah Mada No 38 RT04 RW01, Bandung, Jawa Barat;Carrier Eiger 60L (2 pcs - 10 Hari), Kompor Portable (1 pcs - 10 Hari), ;4625000;Sewa;Qris;Dipinjam
+RylVa - 11;19/05/2026;Alpha;Alpha Beta;Jl jalan no 0 rt4 rw1, bogor, jawa barat;Carrier Eiger 60L (2 pcs), Nesting Set (1 pcs), ;1820000;Beli;COD;Proses
+RylVa - 12;22/05/2026;Ryze;Herman Augustin;Jl. Gajah Mada No 38 RT04 RW01, Bandung, Jawa Barat;Tenda Dome Basic (1), Daypack Consina 30L (1), Nesting Set (2), ;1040000;Beli;Qris;Cancel
+RylVa - 13;22/05/2026;Ruuka;Costantin Ruuka;No38D RT04 RW01, Moskow, Oblast;Daypack Consina 30L (3), ;900000;Beli;COD;Proses
+RylVa - 14;23/05/2026;Zeta;Zeta Constantin;Jl ki Hajar Dewantara No56A RT 04 RW13, Bagdhad, Aula;Daypack Consina 30L (1 pcs - 1 Hari), Nesting Set (1 pcs - 1 Hari), ;105000;Sewa;Qris;Proses
+RylVa - 15;23/05/2026;Ryze;Herman Augustin;Jl. Gajah Mada No 38 RT04 RW01, Bandung, Jawa Barat;Nesting Set (1 pcs - 1 Hari), ;30000;Sewa;;Proses
+RylVa - 16;24/05/2026;Alpha;Alpha Beta;Jl jalan no 0 rt4 rw1, bogor, jawa barat;Tenda Dome Basic (2), ;1000000;Beli;Qris;Proses
+RylVa - 17;24/05/2026;Zeta;Zeta Constantin;Jl ki Hajar Dewantara No56A RT 04 RW13, Bagdhad, Aula;Tenda Dome Basic (3 pcs - 1 Hari), ;375000;Sewa;Bank;Proses
+RylVa - 18;24/05/2026;Zeta;Zeta Constantin;Jl ki Hajar Dewantara No56A RT 04 RW13, Bagdhad, Aula;Eiger Shira 1P (1), ;1300000;Beli;COD;Proses

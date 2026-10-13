@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Poster A4 RylVa Final</title>
+<style>
+    body {
+        margin: 0;
+        padding: 40px;
+        background-color: #222;
+        display: flex;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    /* Kanvas Poster A4 */
+    .poster-canvas {
+        width: 800px;
+        height: 1131px;
+        background-color: #F4F1DE; /* Krem Terang */
+        position: relative;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.6);
+        display: flex;
+        overflow: hidden;
+    }
+
+    /* Panel Kiri (Hijau Pinus Gelap) */
+    .left-panel {
+        width: 45%;
+        background-color: #1A3626;
+        color: #F4F1DE;
+        padding: 50px 30px;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+    }
+
+    /* Panel Kanan (Krem Terang) */
+    .right-panel {
+        width: 55%;
+        background-color: #F4F1DE;
+        padding: 50px 40px;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        z-index: 1;
+    }
+
+    /* Tipografi Judul */
+    .header-title h1 {
+        font-size: 44px;
+        margin: 0;
+        line-height: 1.1;
+        font-weight: 800;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    .header-title h2 {
+        font-size: 14px;
+        color: #6CB387;
+        margin: 10px 0 20px 0;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+    .header-title p {
+        font-size: 13px;
+        font-style: italic;
+        color: #A3B8A8;
+        margin: 0 0 50px 0;
+    }
+
+    /* Judul Seksi (Admin & User) */
+    .section-heading {
+        font-size: 18px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin-bottom: 25px;
+        letter-spacing: 1px;
+    }
+    .left-panel .section-heading {
+        color: #6CB387;
+        border-bottom: 2px solid #3A5A46;
+        padding-bottom: 8px;
+    }
+    .right-panel .section-heading {
+        color: #1A3626;
+        border-bottom: 2px solid #D1CFC0;
+        padding-bottom: 8px;
+        text-align: right;
+        width: 100%;
+    }
+
+    /* List Fitur */
+    .feature-list {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        margin-bottom: 40px;
+    }
+    .feature-item h3 {
+        margin: 0 0 5px 0;
+        font-size: 15px;
+    }
+    .left-panel .feature-item h3 { color: #FFFFFF; }
+    .right-panel .feature-item h3 { color: #1A3626; text-align: right; }
+    
+    .feature-item p {
+        margin: 0;
+        font-size: 12px;
+        line-height: 1.5;
+    }
+    .left-panel .feature-item p { color: #A3B8A8; }
+    .right-panel .feature-item p { color: #555555; text-align: right; }
+
+    /* =========================================
+       TRIK OVERLAPPING (MOCKUP LAPTOP DI TENGAH)
+       ========================================= */
+    .center-mockups {
+        position: absolute;
+        top: 480px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        height: 500px;
+        z-index: 10;
+        pointer-events: none;
+    }
+
+    /* Laptop 1 (Admin - Agak ke Kiri Bawah) */
+    .laptop-admin {
+        position: absolute;
+        top: 120px;
+        left: 80px; /* Menabrak batas hijau */
+        filter: drop-shadow(-15px 20px 25px rgba(0,0,0,0.4));
+    }
+    /* Laptop 2 (User - Agak ke Kanan Atas) */
+    .laptop-user {
+        position: absolute;
+        top: 0px;
+        right: 60px;
+        filter: drop-shadow(-15px 20px 25px rgba(0,0,0,0.3));
+    }
+
+    /* Desain Fisik Laptop */
+    .laptop-body {
+        background-color: #333;
+        padding: 10px 10px 0 10px;
+        border-radius: 12px 12px 0 0;
+        border: 1px solid #555;
+    }
+    .screen {
+        width: 340px;
+        height: 210px;
+        background-color: #FFFFFF;
+        border-radius: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        color: #1A3626;
+        border: 2px solid #111;
+        font-size: 14px;
+        text-align: center;
+        padding: 20px;
+        box-sizing: border-box;
+        background-image: linear-gradient(#f0f0f0 1px, transparent 1px), linear-gradient(90deg, #f0f0f0 1px, transparent 1px);
+        background-size: 20px 20px;
+    }
+    .base {
+        width: 380px;
+        height: 12px;
+        background-color: #999;
+        border-radius: 0 0 12px 12px;
+        position: relative;
+        left: -10px;
+        box-shadow: inset 0 -3px 5px rgba(0,0,0,0.4);
+    }
+    
+    /* Garis Penghubung (Callouts) */
+    .callout-line {
+        position: absolute;
+        height: 1px;
+        background-color: #E07A5F;
+        z-index: 5;
+    }
+    .line-1 { width: 100px; top: 100px; left: -100px; }
+
+    /* Footer Spesifikasi */
+    .footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #112419;
+        color: #A3B8A8;
+        padding: 25px 40px;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 12px;
+        z-index: 15;
+    }
+    .footer strong { color: #FFFFFF; }
+</style>
+</head>
+<body>
+
+    <div class="poster-canvas">
+        
+        <!-- PANEL KIRI (ALUR ADMIN) -->
+        <div class="left-panel">
+            <div class="header-title">
+                <h1>RylVa<br>Camp<br>Store</h1>
+                <h2>Sistem Kasir & Inventaris</h2>
+                <p>Transformasi digital untuk keamanan dan efisiensi data riwayat transaksi.</p>
+            </div>
+
+            <div class="section-heading">Kekuatan Admin</div>
+            
+            <div class="feature-list">
+                <div class="feature-item">
+                    <h3>Live Stock Update</h3>
+                    <p>Sistem cerdas yang secara mandiri memotong stok barang secara real-time ketika transaksi berhasil divalidasi.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Clean Delete System</h3>
+                    <p>Penghapusan data pesanan yang mengeksekusi pencarian dan penghancuran file struk TXT fisiknya secara otomatis untuk mencegah orphaned data.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>One-Click Backup</h3>
+                    <p>Mekanisme pengamanan terpadu untuk menggandakan seluruh database transaksi ke folder aman.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- PANEL KANAN (ALUR USER) -->
+        <div class="right-panel">
+            <div class="section-heading">Pengalaman Pengguna</div>
+            
+            <div class="feature-list">
+                <div class="feature-item">
+                    <h3>Katalog Transaksi Fleksibel</h3>
+                    <p>Mendukung eksekusi transaksi Beli Putus dan Sewa Harian dalam satu alur antarmuka yang efisien.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Pembayaran Dinamis</h3>
+                    <p>Menyediakan metode pembayaran mutakhir serta fitur simulasi cicilan kredit dengan kalkulasi bunga otomatis (2,5%).</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Integrasi Thermal Printer</h3>
+                    <p>Penyusunan format dan pencetakan struk fisik tereksekusi secara langsung melalui perangkat keras di meja kasir.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- LAYER OVERLAPPING (MOCKUP LAPTOP DI TENGAH) -->
+        <div class="center-mockups">
+            
+            <!-- Laptop 2 (User UI) -->
+            <div class="laptop-user">
+                <div class="laptop-body">
+                    <div class="screen">
+                        [ AREA SCREENSHOT 1 ]<br><br>
+                        Tampilkan Layar Kasir / Payment User Di Sini
+                    </div>
+                </div>
+                <div class="base"></div>
+            </div>
+
+            <!-- Laptop 1 (Admin UI) -->
+            <div class="laptop-admin">
+                <div class="laptop-body">
+                    <div class="screen">
+                        [ AREA SCREENSHOT 2 ]<br><br>
+                        Tampilkan Layar Tabel History Admin Di Sini
+                    </div>
+                </div>
+                <div class="base"></div>
+            </div>
+
+        </div>
+
+        <!-- FOOTER SPESIFIKASI BAWAH -->
+        <div class="footer">
+            <div>Teknologi: <strong>C# WinForms | Flat File (.txt) | Blueprint Eco80D Printer</strong></div>
+            <div>Pengembang: <strong>[Nama Lengkap Anda] - [NIM Anda]</strong></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

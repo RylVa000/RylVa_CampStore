@@ -1,0 +1,18 @@
+========================================
+            RYLVA CAMP STORE            
+      ~ Adventure & Camping Gear ~      
+========================================
+No. Invoice : RylVa - 34
+Tanggal     : 03/06/2026
+Pelanggan   : fajir mawlana
+Mode        : Sewa
+Metode      : Qris
+----------------------------------------
+Rincian Pembelian :
+ >Eiger 60L - 2 Hari (x1)
+ >Topi Rimba - 3 Hari (x1)
+ >Buff Bandana - 2 Hari (x1)
+----------------------------------------
+TOTAL BAYAR : Rp 98,750
+========================================
+     Terima Kasih Telah Berbelanja!     
